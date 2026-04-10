@@ -21,3 +21,9 @@ Binary classification project using the Kaggle Heart Failure Prediction Dataset 
 
 ## Tech Stack
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+## Challenges & Learning
+
+While building this, I focused on understanding how ST_Slope and Cholesterol drive predictions. I used Seaborn to visualize the correlation matrix, which helped identify the strongest predictors.
+
+I used Claude to help with the boilerplate but spent time analyzing the outputs.
